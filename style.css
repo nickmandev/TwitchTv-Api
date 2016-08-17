@@ -1,0 +1,19 @@
+body {
+  background-color: #7ECEFD;
+}
+
+h2 {
+  color: white;
+}
+.img-small {
+  height: 42px;
+  weight: 12px;
+  margin: 0 10px 0 10px;
+}
+
+p {
+  width: 300px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
